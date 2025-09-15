@@ -64,9 +64,9 @@ Please make sure you comply with local laws regarding network access, data priva
 ## 👤 Author
 
 **Developer:** Gamaliel Gachanga  
-**GitHub:** [@Gutheras](https://github.com/johndoe)  
+**GitHub:** [@Gutheras](https://github.com/Gutheras)  
 **Email:** gamalielgachanga58@gmail.com  
-**Website:** [https://gutheras.pages.dev/](https://gutheras.pages.dev/)
+**Website:** [gutheras.com](https://gutheras.pages.dev/)
 
 > Feel free to reach out for feedback, collaboration, or just to say hi
 

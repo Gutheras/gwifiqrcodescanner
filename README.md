@@ -33,7 +33,7 @@ Visit: [https://gwifiqrscanner.com](https://gwifiqrcodescanner.vercel.app/)
 ### Option 2: Run Locally
 
 ```bash
-git clone https://github.com/yourusername/wifi-qr-scanner.git
+git clone https://github.com/Gutheras/gwifiqrcodescanner
 npm install --legacy-peer-deps
 npm run dev
 ```

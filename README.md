@@ -27,8 +27,8 @@ This app parses that format to reveal the hidden password and other details.
 
 ## 🚀 Getting Started
 
-### Option 1: Use Online (if hosted)
-Visit: [https://yourdomain.com/wifi-scanner](https://yourdomain.com/wifi-scanner)
+### Option 1: Use Online
+Visit: [https://gwifiqrscanner.com](https://gwifiqrcodescanner.vercel.app/)
 
 ### Option 2: Run Locally
 
